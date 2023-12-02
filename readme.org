@@ -1,9 +1,8 @@
 **** Toy Problems
 
 ***** Langs
-- Rust (static + imperative)
-- Haskell (static + functional)
-- Uiua (array + combinators)
-
+- [[https://github.com/rust-lang/rust][Rust]] (static + imperative)
+- [[https://github.com/ghc/ghc][Haskell]] (static + functional)
+- [[https://github.com/uiua-lang/uiua][Uiua]] (array + combinators)
 ***** Advent of Code
 - [[file:advent-of-code/2023/][2023]] (Haskell)
