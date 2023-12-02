@@ -1,6 +1,9 @@
 **** Toy Problems
 
-- Rust, Haskell, Uiua.
+***** Langs
+- Rust (static + imperative)
+- Haskell (static + functional)
+- Uiua (array + combinators)
 
-**** Advent of Code
+***** Advent of Code
 - [[file:advent-of-code/2023/][2023]] (Haskell)
